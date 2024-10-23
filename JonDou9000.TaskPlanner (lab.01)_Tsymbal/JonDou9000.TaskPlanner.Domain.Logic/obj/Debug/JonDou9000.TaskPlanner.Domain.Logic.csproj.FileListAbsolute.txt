@@ -1,0 +1,9 @@
+E:\Навчання\.NET\JonDou9000.TaskPlanner\JonDou9000.TaskPlanner.Domain.Logic\bin\Debug\JonDou9000.TaskPlanner.Domain.Logic.dll
+E:\Навчання\.NET\JonDou9000.TaskPlanner\JonDou9000.TaskPlanner.Domain.Logic\bin\Debug\JonDou9000.TaskPlanner.Domain.Logic.pdb
+E:\Навчання\.NET\JonDou9000.TaskPlanner\JonDou9000.TaskPlanner.Domain.Logic\bin\Debug\JonDou9000.TaskPlanner.Domain.Models.dll
+E:\Навчання\.NET\JonDou9000.TaskPlanner\JonDou9000.TaskPlanner.Domain.Logic\bin\Debug\JonDou9000.TaskPlanner.Domain.Models.pdb
+E:\Навчання\.NET\JonDou9000.TaskPlanner\JonDou9000.TaskPlanner.Domain.Logic\obj\Debug\JonDou9000.TaskPlanner.Domain.Logic.csproj.AssemblyReference.cache
+E:\Навчання\.NET\JonDou9000.TaskPlanner\JonDou9000.TaskPlanner.Domain.Logic\obj\Debug\JonDou9000.TaskPlanner.Domain.Logic.csproj.CoreCompileInputs.cache
+E:\Навчання\.NET\JonDou9000.TaskPlanner\JonDou9000.TaskPlanner.Domain.Logic\obj\Debug\JonDou9000.TaskPlanner.Domain.Logic.csproj.CopyComplete
+E:\Навчання\.NET\JonDou9000.TaskPlanner\JonDou9000.TaskPlanner.Domain.Logic\obj\Debug\JonDou9000.TaskPlanner.Domain.Logic.dll
+E:\Навчання\.NET\JonDou9000.TaskPlanner\JonDou9000.TaskPlanner.Domain.Logic\obj\Debug\JonDou9000.TaskPlanner.Domain.Logic.pdb
